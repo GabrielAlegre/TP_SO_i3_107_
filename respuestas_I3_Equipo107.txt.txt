@@ -26,3 +26,8 @@ pero hubo unos pequeños inconvenientes al hacer el push, ya que olvidamos hacer
 
 f) Para actualizar dicho archivo primero se realizo un git pull para actualizar el contenido de la rama seguido de agregar en el archivo
 mi nombre, apellido, hora y el contenido de "ipconfig", terminando con git add .; git commit -m ""; y git push -u origin (nombre de la rama)
+
+Alfa: 
+
+g) Para modificar el archivo primero se realizo un git pull para actualizar el contenido de la rama,seguido de agregar en el archivo
+mi nombre, apellido, hora y el contenido de "ipconfig", terminando con git add .; git commit -m ""; y git push -u origin (nombre de la rama)
