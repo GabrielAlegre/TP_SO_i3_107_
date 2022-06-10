@@ -17,3 +17,12 @@ c) comandos:
 - git branch
 - git merge Hernandez -m "Fusiono"
 - git push
+
+Gama: respondo preguntas 4 5 6
+d) Los cambios realizados en una rama son unicos de esa rama y no afectan al resto, a no ser que se realise un marge
+
+e) Al hacer el marge no hubieron problemas, siempre se verifico estar ubicados en la rama master antes del marge
+pero hubo unos pequeños inconvenientes al hacer el push, ya que olvidamos hacer el push de todas las ramas
+
+f) Para actualizar dicho archivo primero se realizo un git pull para actualizar el contenido de la rama seguido de agregar en el archivo
+mi nombre, apellido, hora y el contenido de "ipconfig", terminando con git add .; git commit -m ""; y git push -u origin (nombre de la rama)
