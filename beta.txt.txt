@@ -20,3 +20,42 @@ lo        Link encap:Local Loopback
           TX packets:184 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:0 
           RX bytes:13808 (13.8 KB)  TX bytes:13808 (13.8 KB)
+
+Gama
+Nombre: Nicolas
+Apellido: Hernandez
+Hora: 12:14
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::714a:39a7:da7:b553%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 15:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 16:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : pcnat.telecentro.net.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:810:429:a684::1
+   Dirección IPv6 . . . . . . . . . . : 2800:810:429:a684:646a:7ce0:1c1e:3b2e
+   Dirección IPv6 temporal. . . . . . : 2800:810:429:a684:2196:ae60:ca86:f49a
+   Vínculo: dirección IPv6 local. . . : fe80::646a:7ce0:1c1e:3b2e%20
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.19
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::267f:20ff:fe0c:95fc%20
+                                       192.168.0.1
