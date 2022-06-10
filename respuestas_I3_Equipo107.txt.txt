@@ -1,0 +1,19 @@
+Beta: respondo preguntas 1 2 3
+a) el master despues de todos los cambios queda:
+con el readme
+con el archivo datos.txt creado por mi (beta) en el punto 1
+con el archivo CPUGamma.txt creado por gamma en la rama creada por el en el punto 2
+con el archivo CPUAlfa.txt creado por Alfa en el punto 3
+con el archivo CPUBeta.txt creado por mi (beta) en el punto 4
+con el archivo beta.txt creado por mi (beta) en la rama Alegre del punto 6
+
+b) en mi repositorio de git lo que podia era las ramas creadas, pero en mi repositorio local no veia los cambios
+hasta que me cambie a las ramas de mis compañeros y las fusione con la master, una vez hecho eso si pude ver los cambios realizados en las otras ramas
+
+c) comandos:
+- git checkout Hernandez
+- git fetch Hernandez <- nombre de la rama que creo beta 
+- git fetch
+- git branch
+- git merge Hernandez -m "Fusiono"
+- git push
